@@ -222,7 +222,7 @@ _single underscores_
 
     __double underscores__
 
-This paragraph has some `code` in it.
+This paragraph has some `code` in it!
 
     This paragraph has some `code` in it.
 
