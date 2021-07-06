@@ -6,9 +6,9 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'blog'
-    identifier field: 'blog'
-    label: 'Blog'
+  - name: 'second-post'
+    identifier field: 'my-second-post'
+    label: 'My-second-post'
     folder: 'blog/content/blog/my-second-post'
     create: true
     slug: 'index'
