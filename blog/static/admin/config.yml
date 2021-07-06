@@ -7,6 +7,7 @@ public_folder: /img
 
 collections:
   - name: 'blog'
+    identifier field: 'blog'
     label: 'Blog'
     folder: 'blog/content/blog'
     create: true
@@ -22,14 +23,19 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-      # - name: 'hello-world'
-      #   label: 'Hello-world'
-      #   folder: 'blog/content/blog/hello-world'
-      #   create: true
-      #   editor:
-      #     preview: true
-      #   fields:
-      #     - { label: 'Title', name: 'title', widget: 'string' }
-      #     - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      #     - { label: 'Description', name: 'description', widget: 'string' }
-      #     - { label: 'Body', name: 'body', widget: 'markdown' }
+      - name: 'hello-world'
+        identifier field: 'helloworld'
+        label: 'Hello-world'
+        folder: 'blog/content/blog/hello-world'
+        create: true
+        slug: 'index'
+        media_folder: ''
+        public_folder: ''
+        path: '{{title}}/index'
+        editor:
+          preview: true
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Description', name: 'description', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
