@@ -45,3 +45,13 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: does this go in second post
+    label: Does this go in second post
+    folder: blog/content/blog/my-second-post/does-this-go-in-second-post
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
