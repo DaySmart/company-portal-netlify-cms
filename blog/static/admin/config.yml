@@ -6,35 +6,31 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'second-post'
-    identifier field: 'my-second-post'
-    label: 'My-second-post'
-    folder: 'blog/content/blog/my-second-post'
+  - name: hello-world
+    label: Hello-world
+    folder: blog/content/blog/hello-world
+    create: true 
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' } 
+
+  - name: second-post
+    label: My-second-post
+    folder: blog/content/blog/my-second-post
     create: true
-    slug: 'index'
-    media_folder: ''
-    public_folder: ''
-    path: '{{title}}/index'
-    editor:
-      preview: true
-    fields:
+    fields: 
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: 'hello-world'
-    identifier field: 'helloworld'
-    label: 'Hello-world'
-    folder: 'blog/content/blog/hello-world'
+  - name: new-beginnings
+    label: New-beginnings
+    folder: blog/content/blog/new-beginnings
     create: true
-    slug: 'index'
-    media_folder: ''
-    public_folder: ''
-    path: '{{title}}/index'
-    editor:
-      preview: true
-    fields:
+    fields: 
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
