@@ -9,7 +9,7 @@ collections:
   - name: 'blog'
     identifier field: 'blog'
     label: 'Blog'
-    folder: 'blog/content/blog'
+    folder: 'blog/content/blog/my-second-post'
     create: true
     slug: 'index'
     media_folder: ''
