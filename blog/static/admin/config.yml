@@ -22,9 +22,9 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-      -name: hello-world
-      label: Hello-world
-      folder: blog/content/blog/hello-world
+      -name: 'hello-world'
+      label: 'Hello-world'
+      folder: 'blog/content/blog/hello-world'
       create: true
       slug: 'index'
       media_folder: ''
