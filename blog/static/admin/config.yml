@@ -6,25 +6,6 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - label: "My-second-post Page"
-    name: "second-post"
-    files:
-      - label: "My-second-post"
-        name: "second-post"
-        file: "blog/content/blog/my-second-post/index.md"
-        fields: 
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
-
-
-
   - name: 'blog'
     label: 'Blog'
     folder: 'blog/content/blog'
@@ -37,3 +18,14 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
+      - name: 'blog'
+    label: 'Hello-world'
+    folder: 'blog/content/blog/hello-world'
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
