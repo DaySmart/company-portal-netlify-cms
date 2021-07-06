@@ -6,10 +6,14 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - label: 'Blog'
-    name: 'blog'
+  - name: 'blog'
+    label: 'Blog'
     folder: 'blog/content/blog'
     create: true
+    slug: 'index'
+    media_folder: ''
+    public_folder: ''
+    path: '{{title}}/index'
     editor:
       preview: true
     fields:
