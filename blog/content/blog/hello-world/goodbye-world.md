@@ -52,14 +52,10 @@ for important information and guides on editing this site.
 - [Applications](/Company/Applications/application-list)
 <ul>
 - [Application List](/Company/Applications/application-list)
-
 - [Application Routing Diagrams](/Company/Applications/application-list)
-
 </ul>
 
-<li>
-<Link to={"/Company/Handbook"}>Handbook</Link>
-</li>
+- [Handbook](/Company/Handbook)
 <ul>
 <li><Link to={"/Company/Handbook/company-vision"}>Company Vision</Link></li>
 <li><Link to={"/Company/Handbook/contact"}>Contact</Link></li>
