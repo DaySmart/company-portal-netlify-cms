@@ -50,7 +50,7 @@ for important information and guides on editing this site.
 <Link to={"/Company"}>Company</Link>
 </h2>
 <ul>
-<li><Link to={"/Company/Applications"}>Applications</Link></li>
+<li><Link to={"/new-beginnings/new-beginnings-2/"}>Applications</Link></li>
 <ul>
 <li><Link to={"/Company/Applications/application-list"}>Application List</Link></li>
 <li><Link to={"/Company/Applications/application-routing-diagrams"}>Application Routing Diagrams</Link></li></ul>
