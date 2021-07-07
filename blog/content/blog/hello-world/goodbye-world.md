@@ -45,18 +45,16 @@ See the site{" "}
 for important information and guides on editing this site.
 </p>
 <br />
-
 <h2 id="company">
 <Link to={"/Company"}>Company</Link>
 </h2>
 
  # Testing here to have it be a link
-- [Applications](/blog/content/blog/new-beginnings)
-
+- [Applications](/Company/Applications/application-list)
+<ul>
 <li><Link to={"/Company/Applications/application-list"}>Application List</Link></li>
 <li><Link to={"/Company/Applications/application-routing-diagrams"}>Application Routing Diagrams</Link></li>
 </ul>
-
 <li>
 <Link to={"/Company/Handbook"}>Handbook</Link>
 </li>
@@ -99,7 +97,6 @@ for important information and guides on editing this site.
 <li><Link to={"/Company/Workflows/og-disaster-recovery-protocol"}>OG Application DR Protocol</Link></li>
 </ul>
  </ul>
-
 <li>
  <Link to={"/Company/Portal"}>Portal</Link>
 </li>
