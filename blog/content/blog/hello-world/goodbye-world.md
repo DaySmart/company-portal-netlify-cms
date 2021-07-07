@@ -51,7 +51,6 @@ for important information and guides on editing this site.
 
 - [Applications](/Company/Applications/application-list)
 <ul>
-
 - [Application List](/Company/Applications/application-list)
 
 - [Application Routing Diagrams](/Company/Applications/application-list)
