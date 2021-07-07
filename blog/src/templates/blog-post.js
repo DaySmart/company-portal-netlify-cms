@@ -51,6 +51,10 @@ const BlogPostTemplate = ({ data, location }) => {
               </Link>
             )}
           </li>
+
+          <li>
+            <Link to={"https://nostalgic-bohr-8515c5.netlify.app/"}>Home</Link>
+          </li>
           <li>
             {next && (
               <Link to={next.fields.slug} rel="next">
