@@ -36,16 +36,6 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: testing-today
-    label: Testing-today
-    folder: blog/content/blog/testing-today
-    create: true
-    fields: 
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
   - name: does this go in second post
     label: Does this go in second post
     folder: blog/content/blog/my-second-post/does-this-go-in-second-post
@@ -59,6 +49,69 @@ collections:
   - name: hello everyone
     label: Hello everyone
     folder: blog/content/blog/hello-world/hello-everyone
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+      
+
+      
+  - name: billing
+    label: Billing
+    folder: blog/content/blog/billing
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: company
+    label: Company
+    folder: blog/content/blog/company
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: developers
+    label: Developers
+    folder: blog/content/blog/developers
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: finance
+    label: Finance
+    folder: blog/content/blog/finance
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: human resources
+    label: Human resources
+    folder: blog/content/blog/human-resources
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: infrastructure
+    label: Infrastructure
+    folder: blog/content/blog/infrastructure
     create: true
     fields: 
       - { label: 'Title', name: 'title', widget: 'string' }
