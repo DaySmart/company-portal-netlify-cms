@@ -49,9 +49,10 @@ for important information and guides on editing this site.
 <h2 id="company">
 <Link to={"/Company"}>Company</Link>
 </h2>
-<ul>
-<li><Link to={"/new-beginnings/new-beginnings-2"}>Applications</Link></li>
-<ul>
+
+ # Testing here to have it be a link
+- [Applications](/Company/Applications/application-list)
+
 <li><Link to={"/Company/Applications/application-list"}>Application List</Link></li>
 <li><Link to={"/Company/Applications/application-routing-diagrams"}>Application Routing Diagrams</Link></li>
 </ul>
