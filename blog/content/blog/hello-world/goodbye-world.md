@@ -51,7 +51,7 @@ for important information and guides on editing this site.
 </h2>
 
  # Testing here to have it be a link
-- [Applications](/Company/Applications/application-list)
+- [Applications](/blog/content/blog/new-beginnings)
 
 <li><Link to={"/Company/Applications/application-list"}>Application List</Link></li>
 <li><Link to={"/Company/Applications/application-routing-diagrams"}>Application Routing Diagrams</Link></li>
