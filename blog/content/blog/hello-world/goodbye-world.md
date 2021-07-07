@@ -49,10 +49,10 @@ for important information and guides on editing this site.
 <Link to={"/Company"}>Company</Link>
 </h2>
 
-- [Applications](/Company/Applications/application-list)
+- [Applications](/Company/Applications)
 <ul>
 - [Application List](/Company/Applications/application-list)
-- [Application Routing Diagrams](/Company/Applications/application-list)
+- [Application Routing Diagrams](/Company/Applications/Routing-diagrams)
 </ul>
 
 - [Handbook](/Company/Handbook)
