@@ -49,11 +49,10 @@ for important information and guides on editing this site.
 <Link to={"/Company"}>Company</Link>
 </h2>
 
- # Testing here to have it be a link
 - [Applications](/Company/Applications/application-list)
 <ul>
-<li><Link to={"/Company/Applications/application-list"}>Application List</Link></li>
-<li><Link to={"/Company/Applications/application-routing-diagrams"}>Application Routing Diagrams</Link></li>
+- [Application List](/Company/Applications/application-list)
+- [Application Routing Diagrams](/Company/Applications/application-list)
 </ul>
 <li>
 <Link to={"/Company/Handbook"}>Handbook</Link>
