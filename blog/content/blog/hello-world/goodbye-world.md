@@ -49,7 +49,7 @@ for important information and guides on editing this site.
 <Link to={"/Company"}>Company</Link></h2>
 
 1. [Applications](/Company/Applications)
-- [Application List](/content/blog/my-second-post/does-this-go-in-second-post)
+- [Application List](/my-second-post/does-this-go-in-second-post)
 - [Application Routing Diagrams](/content/blog/my-second-post)
 
 2. [Handbook](/Company/Handbook)
