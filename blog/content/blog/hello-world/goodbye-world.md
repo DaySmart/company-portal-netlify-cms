@@ -55,7 +55,7 @@ for important information and guides on editing this site.
 2. [Handbook](/hello-world)
 - [Hello Everyone](/hello-world/hello-everyone)
 - [Second post again](/my-second-post)
-- [Products](/my-second-post/does-this-go-in-second-post)
+- [Products CHANGE](/my-second-post/does-this-go-in-second-post)
 - [Employment](/Company/Handbook/employment)
 - [Employment Status and Records](/Company/Handbook/employment-status-and-records)
 - [Time Off Policy](/Company/Handbook/time-off-policy)
