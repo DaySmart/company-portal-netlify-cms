@@ -53,9 +53,9 @@ for important information and guides on editing this site.
 - [Application Routing Diagrams](/my-second-post)
 
 2. [Handbook](/hello-world)
-- [Hello Everyone](/hello-world)
+- [Hello Everyone](/hello-world/hello-everyone)
 - [Second post again](/my-second-post)
-- [Products](/Company/Handbook/products)
+- [Products](/my-second-post/does-this-go-in-second-post)
 - [Employment](/Company/Handbook/employment)
 - [Employment Status and Records](/Company/Handbook/employment-status-and-records)
 - [Time Off Policy](/Company/Handbook/time-off-policy)
