@@ -48,12 +48,11 @@ for important information and guides on editing this site.
 <h2 id="company">
 <Link to={"/Company"}>Company</Link></h2>
 
-- [Applications](/Company/Applications)
-<ul>
+1. [Applications](/Company/Applications)
 - [Application List](/Company/Applications/application-list)
 - [Application Routing Diagrams](/Company/Applications/Routing-diagrams)
-</ul>
-- [Handbook](/Company/Handbook)
+
+2. [Handbook](/Company/Handbook)
 <ul>
 <li><Link to={"/Company/Handbook/company-vision"}>Company Vision</Link></li>
 <li><Link to={"/Company/Handbook/contact"}>Contact</Link></li>
