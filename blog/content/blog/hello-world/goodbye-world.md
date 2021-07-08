@@ -55,6 +55,7 @@ for important information and guides on editing this site.
 2. [Handbook](/hello-world)
 - [Developers](/developers)
 - [Finance](/finance)
+- [Hello Everyone](/hello-world)
 - [Second post again](/my-second-post)
 - [Products CHANGE](/my-second-post/does-this-go-in-second-post)
 - [Billing](/billing)
