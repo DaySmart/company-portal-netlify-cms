@@ -6,8 +6,8 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: hello-world
-    label: Hello-world
+  - name: Hello-world
+    label: hello-world
     folder: blog/content/blog/hello-world
     create: true 
     fields: 
@@ -17,7 +17,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' } 
 
   - name: second-post
-    label: My-second-post
+    label: my-second-post
     folder: blog/content/blog/my-second-post
     create: true
     fields: 
@@ -26,8 +26,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: new-beginnings
-    label: New-beginnings
+  - name: New-beginnings
+    label: new-beginnings
     folder: blog/content/blog/new-beginnings
     create: true
     fields: 
@@ -46,8 +46,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: hello everyone
-    label: Hello everyone
+  - name: Hello everyone
+    label: hello-everyone
     folder: blog/content/blog/hello-world/hello-everyone
     create: true
     fields: 
@@ -59,8 +59,8 @@ collections:
       
 
       
-  - name: billing
-    label: Billing
+  - name: Billing
+    label: billing
     folder: blog/content/blog/billing
     create: true
     fields: 
@@ -69,8 +69,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: company
-    label: Company
+  - name: Company
+    label: company
     folder: blog/content/blog/company
     create: true
     fields: 
@@ -79,8 +79,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: developers
-    label: Developers
+  - name: Developers
+    label: developers
     folder: blog/content/blog/developers
     create: true
     fields: 
@@ -89,8 +89,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: finance
-    label: Finance
+  - name: Finance
+    label: finance
     folder: blog/content/blog/finance
     create: true
     fields: 
@@ -100,7 +100,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: human resources
-    label: Human resources
+    label: human-resources
     folder: blog/content/blog/human-resources
     create: true
     fields: 
@@ -109,8 +109,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-  - name: infrastructure
-    label: Infrastructure
+  - name: Infrastructure
+    label: infrastructure
     folder: blog/content/blog/infrastructure
     create: true
     fields: 
@@ -120,7 +120,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: home page
-    label: Home Page
+    label: home-Page
     folder: blog/content/blog/home-page
     create: true
     fields: 
