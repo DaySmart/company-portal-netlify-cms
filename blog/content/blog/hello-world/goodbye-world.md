@@ -6,7 +6,7 @@ description: not hello world
 
 <h2 id="introduction">Welcome!</h2>
 <p>
-&nbsp This DaySmart company portal is the central location for all information
+&nbsp &nbsp &nbsp &nbsp &nbspThis DaySmart company portal is the central location for all information
 on how the company operates. Anyone who is apart of the company can edit
 a page on this site by making a{" "}
 <a
@@ -54,16 +54,16 @@ for important information and guides on editing this site.
 
 2. [Handbook](/Company/Handbook)
 - [Company Vision](/Company/Handbook/company-vision)
-<li><Link to={"/Company/Handbook/contact"}>Contact</Link></li>
-<li><Link to={"/Company/Handbook/products"}>Products</Link></li>
-<li><Link to={"/Company/Handbook/employment"}>Employment</Link></li>
-<li><Link to={"/Company/Handbook/company-vision"}>Employment Status and Records</Link></li>
-<li><Link to={"/Company/Handbook/time-off-policy"}>Time Off Policy</Link></li>
-<li><Link to={"/Company/Handbook/timekeeping-and-payroll"}>Timekeeping and Payroll</Link></li>
-<li><Link to={"/Company/Handbook/work-conditions-and-hours"}>Work Conditions and Hours</Link></li>
-<li><Link to={"/Company/Handbook/employee-conduct-and-disciplinary-action"}>Employee Conduct/disciplinary Action</Link></li>
-<li><Link to={"/Company/Handbook/employee-telecommuting-policy"}>Employee Telecommuting Policy</Link></li>
-<li><Link to={"/Company/Handbook/legal"}>Legal</Link></li>
+- [Contacts](/Company/Handbook/contacts)
+- [Products](/Company/Handbook/products)
+- [Employment](/Company/Handbook/employment)
+- [Employment Status and Records](/Company/Handbook/employment-status-and-records)
+- [Time Off Policy](/Company/Handbook/time-off-policy)
+- [Timekeeping and Payroll](/Company/Handbook/timekeeping-and-payroll)
+- [Work Conditions and Hours](/Company/Handbook/work-conditions-and-hours)
+- [Employee Conduct and Disciplinary Actions](/Company/Handbook/employee-conduct-and-disciplinary-action)
+- [Employee Telecommuting Policy](/Company/Handbook/employee-telecommuting-policy)
+- [Legal](/Company/Handbook/legal)
 
 3. [Workflows](/Company/Workflows)
 <ul>
