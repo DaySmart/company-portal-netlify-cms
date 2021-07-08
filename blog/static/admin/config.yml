@@ -16,6 +16,16 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' } 
 
+  - name: Hello everyone
+    label: hello-world/hello-everyone
+    folder: blog/content/blog/hello-world/hello-everyone
+    create: true
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
   - name: second-post
     label: my-second-post
     folder: blog/content/blog/my-second-post
@@ -45,18 +55,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
-  - name: Hello everyone
-    label: hello-everyone
-    folder: blog/content/blog/hello-world/hello-everyone
-    create: true
-    fields: 
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
-      
+    
 
       
   - name: Billing
