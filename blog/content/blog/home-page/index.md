@@ -55,6 +55,7 @@ for important information and guides on editing this site.
 2. [Handbook](/hello-world)
 - [Company page 3](/company/company-number-two/company-three)
 - [Developers](/developers)
+- [Human Resources](/human-resources)
 - [Finance](/finance)
 - [Hello Everyone](/hello-world)
 - [Second post again](/my-second-post)
