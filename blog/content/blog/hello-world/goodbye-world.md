@@ -53,7 +53,7 @@ for important information and guides on editing this site.
 - [Application Routing Diagrams](/content/blog/my-second-post)
 
 2. [Handbook](/Company/Handbook)
-- [Infrastructure Page](/infrastructure)
+- [Infrastructure Page](/content/blog/infrastructure)
 - [Company Vision](/Company/Handbook/company-vision)
 - [Contacts](/Company/Handbook/contacts)
 - [Products](/Company/Handbook/products)
