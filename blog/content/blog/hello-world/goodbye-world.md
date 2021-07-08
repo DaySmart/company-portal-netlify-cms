@@ -50,10 +50,10 @@ for important information and guides on editing this site.
 
 1. [Applications changing to see change](/Company/Applications)
 - [Application List](/my-second-post/does-this-go-in-second-post)
-- [Application Routing Diagrams Change here](/my-second-post)
+- [Application Routing Diagrams](/my-second-post)
 
 2. [Handbook](/Company/Handbook)
-- [Infrastructure Page](/infrastructure)
+- [Infrastructure Page change](/hello-world/hello-everyone)
 - [Company Vision](/Company/Handbook/company-vision)
 - [Contacts](/Company/Handbook/contacts)
 - [Products](/Company/Handbook/products)
