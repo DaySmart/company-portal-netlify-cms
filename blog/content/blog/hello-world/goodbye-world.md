@@ -6,7 +6,7 @@ description: not hello world
 
 <h2 id="introduction">Welcome!</h2>
 <p>
-This DaySmart company portal is the central location for all information
+&nbsp This DaySmart company portal is the central location for all information
 on how the company operates. Anyone who is apart of the company can edit
 a page on this site by making a{" "}
 <a
@@ -49,12 +49,11 @@ for important information and guides on editing this site.
 <Link to={"/Company"}>Company</Link></h2>
 
 1. [Applications](/Company/Applications)
-- [Application List](/Company/Applications/application-list)
-- [Application Routing Diagrams](/Company/Applications/Routing-diagrams)
+- [Application List](/content/blog/my-second-post/does-this-go-in-second-post)
+- [Application Routing Diagrams](/content/blog/my-second-post)
 
 2. [Handbook](/Company/Handbook)
-<ul>
-<li><Link to={"/Company/Handbook/company-vision"}>Company Vision</Link></li>
+- [Company Vision](/Company/Handbook/company-vision)
 <li><Link to={"/Company/Handbook/contact"}>Contact</Link></li>
 <li><Link to={"/Company/Handbook/products"}>Products</Link></li>
 <li><Link to={"/Company/Handbook/employment"}>Employment</Link></li>
@@ -65,10 +64,8 @@ for important information and guides on editing this site.
 <li><Link to={"/Company/Handbook/employee-conduct-and-disciplinary-action"}>Employee Conduct/disciplinary Action</Link></li>
 <li><Link to={"/Company/Handbook/employee-telecommuting-policy"}>Employee Telecommuting Policy</Link></li>
 <li><Link to={"/Company/Handbook/legal"}>Legal</Link></li>
-</ul>
-<li>
-<Link to={"/Company/Workflows"}>Workflows</Link>
-</li>
+
+3. [Workflows](/Company/Workflows)
 <ul>
 <li><Link to={"/Company/Workflows"}>Production</Link></li>
 <ul>
