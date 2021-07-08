@@ -52,8 +52,8 @@ for important information and guides on editing this site.
 - [Application List](/my-second-post/does-this-go-in-second-post)
 - [Application Routing Diagrams](/my-second-post)
 
-2. [Handbook](/Company/Handbook)
-- [Infrastructure Page change](/hello-world/hello-everyone)
+2. [Handbook](/hello-world)
+- [Infrastructure Page](/hello-world/hello-everyone)
 - [Company Vision](/Company/Handbook/company-vision)
 - [Contacts](/Company/Handbook/contacts)
 - [Products](/Company/Handbook/products)
