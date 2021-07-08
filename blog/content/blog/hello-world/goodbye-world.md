@@ -53,6 +53,7 @@ for important information and guides on editing this site.
 - [Application Routing Diagrams](/my-second-post)
 
 2. [Handbook](/hello-world)
+- [Finance](/finance)
 - [Hello Everyone](/hello-world/hello-everyone)
 - [Second post again](/my-second-post)
 - [Products CHANGE](/my-second-post/does-this-go-in-second-post)
