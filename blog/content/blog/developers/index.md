@@ -1,6 +1,6 @@
 ---
-title: Index
-date: 2021-07-08T17:14:54.203Z
-description: Developers index
+title: Developer
+date: 2021-07-08T17:03:38.190Z
+description: Developers page
 ---
-index body developer
+Developers body page
