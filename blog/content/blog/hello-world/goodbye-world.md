@@ -53,9 +53,8 @@ for important information and guides on editing this site.
 - [Application Routing Diagrams](/my-second-post)
 
 2. [Handbook](/hello-world)
-- [Infrastructure Page](/hello-world/hello-everyone)
-- [Company Vision](/Company/Handbook/company-vision)
-- [Contacts](/Company/Handbook/contacts)
+- [Hello Everyone](/hello-world/hello-everyone)
+- [Second post again](/my-second-post)
 - [Products](/Company/Handbook/products)
 - [Employment](/Company/Handbook/employment)
 - [Employment Status and Records](/Company/Handbook/employment-status-and-records)
