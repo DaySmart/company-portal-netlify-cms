@@ -57,7 +57,7 @@ https://www.netlifycms.org/docs/add-to-your-site/
 
 2. [Handbook](/hello-world)
 - [Demo](/demo)
-- [Demo two](/demo-two)
+- [Demo two](/demo-two/demo-two)
 - [Company page 3](/company/company-number-two/company-three)
 - [Developers](/developers)
 - [Human Resources](/human-resources)
