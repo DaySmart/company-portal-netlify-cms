@@ -5,3 +5,5 @@ description: Billing page test
 img: /static/img/daysmarttape.jpg
 ---
 Bill
+
+![text](/static/img/daysmartbranch.png "branch")
