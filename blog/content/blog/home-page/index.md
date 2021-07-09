@@ -59,6 +59,7 @@ https://www.netlifycms.org/docs/add-to-your-site/
 - [Company page 3](/company/company-number-two/company-three)
 - [Developers](/developers)
 - [Human Resources](/human-resources)
+- [Infrastructure](/infrastructure)
 - [Finance](/finance)
 - [Hello Everyone](/hello-world)
 - [Second post again](/my-second-post)
