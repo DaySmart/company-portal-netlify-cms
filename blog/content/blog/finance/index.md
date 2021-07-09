@@ -5,7 +5,12 @@ description: Finance page change
 ---
 Finance page body
 
-![DaySmart](/images/src "DaySmart")
-
-Image two try
-![DaySmart](/images/src/DaySmart.png "DaySmart")
+<StaticImage
+        className="daysmart"
+        layout="fixed"
+        src="../images/DaySmart.png"
+        width={50}
+        height={50}
+        quality={95}
+        alt="DaySmart"
+      />
