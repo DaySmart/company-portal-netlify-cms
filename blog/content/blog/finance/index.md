@@ -5,12 +5,4 @@ description: Finance page change
 ---
 Finance page body
 
-<StaticImage
-        className="daysmart"
-        layout="fixed"
-        src="../images/DaySmart.png"
-        width={50}
-        height={50}
-        quality={95}
-        alt="DaySmart"
-      />
+![Gatsby](./gatsby-icon.png)
