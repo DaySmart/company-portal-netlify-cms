@@ -5,3 +5,5 @@ description: Billing page test
 img: /img/daysmarttest.png
 ---
 Billing page information changing
+
+![Gatsby](./gatsby-icon.png)
