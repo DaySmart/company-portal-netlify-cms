@@ -29,6 +29,7 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        {post.frontmatter.img && <img src={post.frontmatter.img}></img>}
         <hr />
         <footer>
           <Bio />
@@ -89,6 +90,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        img
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
