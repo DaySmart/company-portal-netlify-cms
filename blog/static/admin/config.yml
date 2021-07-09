@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 media_folder: blog/static/img
-public_folder: /img
+# public_folder: /img
 
 collections:
   - name: Hello-world
