@@ -5,4 +5,4 @@ description: Billing page test
 ---
 Billing page information change
 
-![DaySmart](../../src/images/daysmart.png)
+![DaySmart](./daysmart.png)
