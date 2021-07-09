@@ -56,6 +56,7 @@ Look at this site during meeting since we do not have the HTML page, and have no
 https://www.netlifycms.org/docs/add-to-your-site/ 
 
 2. [Handbook](/hello-world)
+- [Demo](/demo)
 - [Company page 3](/company/company-number-two/company-three)
 - [Developers](/developers)
 - [Human Resources](/human-resources)
