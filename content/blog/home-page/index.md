@@ -52,9 +52,6 @@ for important information and guides on editing this site.
 - [Application List](/my-second-post/does-this-go-in-second-post)
 - [Application Routing Diagrams](/my-second-post)
 
-Look at this site during meeting since we do not have the HTML page, and have not done anything with uploading images.
-https://www.netlifycms.org/docs/add-to-your-site/ 
-
 2. [Handbook](/hello-world)
 - [Demo](/demo)
 - [Demo two](/demo-two/demo-two)
