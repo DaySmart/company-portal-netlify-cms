@@ -54,7 +54,7 @@ const BlogPostTemplate = ({ data, location }) => {
           </li>
 
           <li>
-            <Link to={"https://nostalgic-bohr-8515c5.netlify.app/"}>Home</Link>
+            <Link to={"https://vigilant-mcnulty-e6937e.netlify.app/home-page"}>Home</Link>
           </li>
           <li>
             {next && (
