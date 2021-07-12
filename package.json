@@ -37,6 +37,7 @@
   "devDependencies": {
     "prettier": "2.2.1"
   },
+  "gh-pages": "^2.2.0",
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
