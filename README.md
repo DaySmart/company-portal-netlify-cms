@@ -8,29 +8,82 @@
   Gatsby's blog starter
 </h1>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+---
+title: Home Page
+date: 2021-07-07
+description: Home Page
+---
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+<h2 id="introduction">Welcome!</h2>
+<p>
+&nbsp &nbsp &nbsp &nbsp &nbspThis DaySmart company portal is the central location for all information
+on how the company operates. Anyone who is apart of the company can edit
+a page on this site by making a{" "}
+<a
+    href="https://github.com/DaySmart/company-portal"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    branch
+</a>{" "}
+off the master repository, and submitting a{" "}
+<a
+    href="https://github.com/DaySmart/company-portal/compare"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    pull request
+</a>{" "}
+to add/improve the contents of this site. New pages should be made and
+edited as markdown files (.md). Add a page{" "}
+<a
+    href="https://github.com/DaySmart/company-portal/new/master/src/markdown-pages"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    Here
+</a>
+{". "}
+See the site{" "}
+<a
+    href="https://github.com/DaySmart/company-portal/blob/master/README.md"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    README
+</a>{" "}
+for important information and guides on editing this site.
+</p>
+<br />
+<h2 id="company">
+<Link to={"/Company"}>Company</Link></h2>
 
-## 🚀 Quick start
+1. [Applications changing to see change](/Company/Applications)
+- [Application List](/my-second-post/does-this-go-in-second-post)
+- [Application Routing Diagrams](/my-second-post)
 
-1.  **Create a Gatsby site.**
+Look at this site during meeting since we do not have the HTML page, and have not done anything with uploading images.
+https://www.netlifycms.org/docs/add-to-your-site/ 
 
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
-
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
-
-1.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
+2. [Handbook](/hello-world)
+- [Demo](/demo)
+- [Demo two](/demo-two/demo-two)
+- [Company page 3](/company/company-number-two/company-three)
+- [Developers](/developers)
+- [Human Resources](/human-resources)
+- [Infrastructure](/infrastructure)
+- [Finance](/finance)
+- [Hello Everyone](/hello-world)
+- [Second post again](/my-second-post)
+- [Products CHANGE](/my-second-post/does-this-go-in-second-post)
+- [Billing](/billing)
+- [Employment Status and Records](/Company/Handbook/employment-status-and-records)
+- [Time Off Policy](/Company/Handbook/time-off-policy)
+- [Timekeeping and Payroll](/Company/Handbook/timekeeping-and-payroll)
+- [Work Conditions and Hours](/Company/Handbook/work-conditions-and-hours)
+- [Employee Conduct and Disciplinary Actions](/Company/Handbook/employee-conduct-and-disciplinary-action)
+- [Employee Telecommuting Policy](/Company/Handbook/employee-telecommuting-policy)
+- [Legal](/Company/Handbook/legal)
 
 1.  **Open the source code and start editing!**
 
