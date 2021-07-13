@@ -67,7 +67,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { name: "img", label: "Image", widget: "image" }
 
   - name: Company
     label: company
@@ -78,7 +77,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { name: "img", label: "Image", widget: "image" }
 
   - name: Developers
     label: developers
@@ -109,7 +107,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { name: img, label: "image", widget: "image" }
 
   - name: Infrastructure
     label: infrastructure
@@ -120,7 +117,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { name: img, label: "image", widget: "image" }
 
   - name: home page
     label: home-Page
@@ -131,7 +127,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { name: img, label: "image", widget: "image" }
 
   - name: demo
     label: demo
@@ -142,7 +137,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { name: img, label: "image", widget: "image" }
 
   - name: demo two
     label: demo-two
@@ -153,5 +147,4 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { name: img, label: "image", widget: "image" }
 
