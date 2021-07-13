@@ -57,6 +57,7 @@ for important information and guides on editing this site.
 
 * [Demo](/demo)
 * [Demo two](/demo-two/demo-two)
+* [Demo Three](/demo-two/demo-three/demo-three)
 * [Company page 3](/company/company-number-two/company-three)
 * [Developers](/developers/Develop)
 * [Human Resources](/human-resources)
