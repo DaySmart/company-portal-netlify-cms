@@ -6,4 +6,3 @@ img: /img/daysmarttape.jpg
 ---
 Bill. trying this
 
-![text](/img/daysmartbranch.png "branch")
