@@ -2,8 +2,8 @@
 title: Home Page
 date: 2021-07-07
 description: Home Page
+img: img/daysmart.png
 ---
-
 <h2 id="introduction">Welcome!</h2>
 <p>
 &nbsp &nbsp &nbsp &nbsp &nbspThis DaySmart company portal is the central location for all information
@@ -49,68 +49,32 @@ for important information and guides on editing this site.
 <Link to={"/Company"}>Company</Link></h2>
 
 1. [Applications changing to see change](/Company/Applications)
-- [Application List](/my-second-post/does-this-go-in-second-post)
-- [Application Routing Diagrams](/my-second-post)
+
+* [Application List](/my-second-post/does-this-go-in-second-post)
+* [Application Routing Diagrams](/my-second-post)
 
 2. [Handbook](/hello-world)
-- [Demo](/demo)
-- [Demo two](/demo-two/demo-two)
-- [Company page 3](/company/company-number-two/company-three)
-- [Developers](/developers)
-- [Human Resources](/human-resources)
-- [Infrastructure](/infrastructure)
-- [Finance](/finance)
-- [Hello Everyone](/hello-world)
-- [Second post again](/my-second-post)
-- [Products CHANGE](/my-second-post/does-this-go-in-second-post)
-- [Billing](/billing)
-- [Employment Status and Records](/Company/Handbook/employment-status-and-records)
-- [Time Off Policy](/Company/Handbook/time-off-policy)
-- [Timekeeping and Payroll](/Company/Handbook/timekeeping-and-payroll)
-- [Work Conditions and Hours](/Company/Handbook/work-conditions-and-hours)
-- [Employee Conduct and Disciplinary Actions](/Company/Handbook/employee-conduct-and-disciplinary-action)
-- [Employee Telecommuting Policy](/Company/Handbook/employee-telecommuting-policy)
-- [Legal](/Company/Handbook/legal)
+
+* [Demo](/demo)
+* [Demo two](/demo-two/demo-two)
+* [Company page 3](/company/company-number-two/company-three)
+* [Developers](/developers/Index)
+* [Human Resources](/human-resources)
+* [Infrastructure](/infrastructure/infrastructure-redo)
+* [Finance](/finance)
+* [Hello Everyone](/hello-world)
+* [Second post again](/my-second-post)
+* [Products CHANGE](/my-second-post/does-this-go-in-second-post)
+* [Billing](/billing)
+* [Employment Status and Records](/Company/Handbook/employment-status-and-records)
+* [Time Off Policy](/Company/Handbook/time-off-policy)
+* [Timekeeping and Payroll](/Company/Handbook/timekeeping-and-payroll)
+* [Work Conditions and Hours](/Company/Handbook/work-conditions-and-hours)
+* [Employee Conduct and Disciplinary Actions](/Company/Handbook/employee-conduct-and-disciplinary-action)
+* [Employee Telecommuting Policy](/Company/Handbook/employee-telecommuting-policy)
+* [Legal](/Company/Handbook/legal)
 
 3. [Workflows](/Company/Workflows)
-<ul>
-<li><Link to={"/Company/Workflows"}>Production</Link></li>
-<ul>
-<li><a href = "https://docs.google.com/document/d/1HyKjjP1_HsG2QwKdD-PpRx80tpt-N8uV90gsgu7j9w8/edit?usp=sharing">Releasing DsiCollection Project Guide</a></li>
-<li><a href = "https://docs.google.com/document/d/1yX2hnYvLgURa3P_ToqykFmEUY9axdiKMPYDaNfDtAGQ/edit?usp=sharing">Generating Release Notes</a></li>
-<li><Link to={"/Company/Workflows/production-changes"}>Production Changes</Link></li>
-<li><Link to={"/Company/Workflows/production-rollback-decision-making-process"}>Production Rollback Decision Making Process</Link></li>
-<li><Link to={"/Company/Workflows/postmoterm-process"}>Postmortem Process</Link></li>
-</ul>
-</ul>
-<ul>
-<li><Link to={"/Company/Workflows"}>Service Interruption Protocols</Link></li>
-<ul>
-<li><Link to={"/Company/Workflows/service-interruption-protocol"}>Service Interruption Protocol</Link></li>
-<li><Link to={"/Company/Workflows/123pet-care-service-interruption-protocol"}>123Pet Care Service Interruption Protocol</Link></li>
-</ul>
- </ul>
-<ul>
-<li><Link to={"/Company/Workflows/"}>Disaster Recovery</Link></li>
-<ul>
-<li><Link to={"/Company/Workflows/og-disaster-recovery-protocol"}>OG Application DR Protocol</Link></li>
-</ul>
- </ul>
-<li>
- <Link to={"/Company/Portal"}>Portal</Link>
-</li>
-<ul>
-    <li>
-    <Link to={"/Company/Portal#what-goes-in-the-portal"}>
-        What Goes in the Portal
-    </Link>
-    </li>
-    <li>
-    <Link to={"/Company/Portal#tutorial-videos"}>Tutorial Videos</Link>
-    </li>
-</ul>
-</ul>
-<br />
 
 <h2>
 <Link to={"/Departments/Billing"}>Billing</Link>
