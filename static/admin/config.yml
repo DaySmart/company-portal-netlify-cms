@@ -140,11 +140,22 @@ collections:
 
   - name: demo two
     label: demo-two
-    folder: content/blog/demo-two
+    folder: content/blog/demo-two/
     create: true
     fields: 
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+    - name: demo two
+    label: demo-two
+    folder: content/blog/demo-two/demo-three
+    create: true
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
 
