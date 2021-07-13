@@ -3,6 +3,6 @@ title: Finance
 date: 2021-07-08T15:57:21.309Z
 description: Finance page change
 ---
-Finance page body
+Adding a picture of Bart
 
-![Gatsby](./gatsby-icon.png)
+![Bart Simspon](/img/bartsimpson.png "Bart")
