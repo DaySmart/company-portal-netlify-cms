@@ -55,7 +55,7 @@ for important information and guides on editing this site.
 
 2. [Handbook](/hello-world)
 
-* [Demo](/demo)
+* [Demo](/demo/demo)
 * [Demo two](/demo-two/demo-two)
 * [Demo Three](/demo-two/demo-three/demo-three)
 * [Company page 3](/company/company-number-two/company-three)
