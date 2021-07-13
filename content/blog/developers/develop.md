@@ -5,6 +5,6 @@ description: Developing
 ---
 Testing the new config
 
-![Spongebob](img/spongebob.png "Spongebob SqaurePants")
+![Spongebob](/img/spongebob.png "Spongebob SqaurePants")
 
  This is a picture of spongebob above
