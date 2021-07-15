@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: daysmart.github.io
   branch: main # Branch to update (optional; defaults to master)
+  site_domain: https://vigilant-mcnulty-e6937e.netlify.app
 
 media_folder: static/img
 public_folder: /img
