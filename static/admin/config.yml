@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: daysmart.github.io
+  repo: daysmart.github.io/company-portal-netlify-cms
   branch: TestCodeOwner # Branch to update (optional; defaults to master)
   site_domain: vigilant-mcnulty-e6937e.netlify.com
 
