@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: daysmart.github.io
-  branch: Test-CodeOwner # Branch to update (optional; defaults to master)
+  branch: TestCodeOwner # Branch to update (optional; defaults to master)
   site_domain: vigilant-mcnulty-e6937e.netlify.com
 
 media_folder: static/img
